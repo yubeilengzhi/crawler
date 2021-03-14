@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 133
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "唐延",
+      "addressDetail": "雁塔区唐延路3号易初莲花超一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "雁塔",
+      "addressDetail": "雁塔区雁塔路大唐商业广场A栋10101、10109号",
+      "pro": "Wi-Fi,点唱机,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "东仪",
+      "addressDetail": "含光路与电子二路交汇处家世界购物中心一层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "友谊",
+      "addressDetail": "友谊东路82号星艺佳文艺路店一层",
+      "pro": "Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "朱雀",
+      "addressDetail": "小寨西路银泰城一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "未央",
+      "addressDetail": "经济开发区未央路赛高商务港一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "东关",
+      "addressDetail": "东关正街东方星苑一、二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "万达",
+      "addressDetail": "雁塔路北段8号万达商业广场一二层",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "钟楼",
+      "addressDetail": "北大街1号钟楼邮局北侧一、二层",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "城西",
+      "addressDetail": "枣园东路92号一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "陕西省",
+      "cityName": "西安市"
+    }
+  ]
+}
